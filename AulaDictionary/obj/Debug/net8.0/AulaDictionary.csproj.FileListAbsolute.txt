@@ -1,0 +1,14 @@
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\bin\Debug\net8.0\AulaDictionary.exe
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\bin\Debug\net8.0\AulaDictionary.deps.json
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\bin\Debug\net8.0\AulaDictionary.runtimeconfig.json
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\bin\Debug\net8.0\AulaDictionary.dll
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\bin\Debug\net8.0\AulaDictionary.pdb
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\obj\Debug\net8.0\AulaDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\obj\Debug\net8.0\AulaDictionary.AssemblyInfoInputs.cache
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\obj\Debug\net8.0\AulaDictionary.AssemblyInfo.cs
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\obj\Debug\net8.0\AulaDictionary.csproj.CoreCompileInputs.cache
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\obj\Debug\net8.0\AulaDictionary.dll
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\obj\Debug\net8.0\refint\AulaDictionary.dll
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\obj\Debug\net8.0\AulaDictionary.pdb
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\obj\Debug\net8.0\AulaDictionary.genruntimeconfig.cache
+E:\Cursos\CSharp\AulaDictionary\AulaDictionary\obj\Debug\net8.0\ref\AulaDictionary.dll
